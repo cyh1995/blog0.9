@@ -1,0 +1,13 @@
+生成app:　
+python manage.py startapp xxx
+
+
+生成数据库:
+  python manage.py makemigrations
+  python manage.py migrate
+
+生成超级用户:
+  python manage.py createsuperuser
+
+生成所有依赖：
+  pip freeze > requirements.txt
