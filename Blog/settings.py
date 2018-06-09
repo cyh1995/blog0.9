@@ -24,7 +24,7 @@ SECRET_KEY = '_(q%726zu=$qwktczoplwhtt)$_bjob110)+5xzbionwrn^%u('
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.cyhsteinsgate.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.cyhsteinsgate.cn']
 
 
 

@@ -1,5 +1,5 @@
 #视图函数需要从模板中获得参数
-from msilib.schema import ListView
+
 from django.core.paginator import Paginator,EmptyPage,PageNotAnInteger
 
 from .models import Article,Category,Tag
